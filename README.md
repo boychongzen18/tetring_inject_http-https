@@ -1,10 +1,11 @@
-# Tetring all Apk inject
+# Tetring All Apk Inject 
 
 # Support Computer & Laptop
 
 # Author : Boychongzen aka Xroot
 
-# KPN Tunnel Rev Tetring 
+# KPN Tunnel Rev Tetring To User Android
+
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/kpn.jpg) 
 
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/tether.jpg) 
