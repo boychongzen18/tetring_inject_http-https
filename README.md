@@ -8,7 +8,11 @@
 
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/kpn.jpg) 
 
-![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/andro1.jpg) 
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/andro1.jpg)
+
+Link Streaming Trans7
+
+https://www.trans7.co.id/live-streaming
 
 
 Youtube       : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
