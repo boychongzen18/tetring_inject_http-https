@@ -4,6 +4,11 @@
 
 # Author : Boychongzen aka Xroot
 
+# HTTP Injector Tetring To User Android
+
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/hostshare.jpg) 
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/hospot.jpg)
+
 # KPN Tunnel Rev Tetring To User Android
 
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/kpn.jpg) 
