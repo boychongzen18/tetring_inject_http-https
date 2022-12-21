@@ -4,7 +4,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# HTTP COSTUM Tetring To User Android
+# HTTP CUSTOM Tetring To User Android
 
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/hc.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/web.jpg)
