@@ -40,7 +40,7 @@ https://www.trans7.co.id/live-streaming
 
 Youtube       : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/jufqXBAzP9w
+Link Tutorial : https://www.youtube.com/watch?v=XrgVUzE7-wA
 
 My Website    : https://hackingforlive.wordpress.com
 
