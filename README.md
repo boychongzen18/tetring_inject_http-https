@@ -38,7 +38,7 @@ Link Streaming Trans7
 https://www.trans7.co.id/live-streaming
 
 
-Youtube       : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+Youtube       : https://www.youtube.com/@AksesInternet2023
 
 Link Tutorial : https://www.youtube.com/watch?v=XrgVUzE7-wA
 
