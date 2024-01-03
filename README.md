@@ -8,8 +8,8 @@
 
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel1.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel2.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel3.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel2.png)
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel3.png)
 
 # HTTP CUSTOM Tetring To User Android
 
