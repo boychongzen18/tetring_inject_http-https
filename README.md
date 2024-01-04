@@ -10,6 +10,9 @@
 # Clash Meta For Android Tetring To User Laptop
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/cfa.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/cfa1.jpg)
+# GACHANG Tetring To User Laptop
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/gachang.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/gachang1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel3.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/tetring_all_apk_inject/main/darktunel2.png)
 
